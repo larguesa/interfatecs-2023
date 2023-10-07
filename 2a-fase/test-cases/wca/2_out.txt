@@ -1,0 +1,27 @@
+.Id.Nome.......................Media......Melhor
+Cubo 3x3x3
+  6 Huguinho                  08:892      08:705
+  5 Zezinho                   09:145      09:072
+  7 Luizinho                  10:308      09:934
+  3 Tio Patinhas              11:954      11:740
+  8 Peninha                   15:053      14:903
+  9 Gansolino                 17:040      16:978
+  2 Margarida                 20:119      19:878
+  4 Vovo Donalda              20:936      20:739
+  1 Pato Donald               30:313      26:441
+ 10 Irmaos Metralha              DNF      40:907
+Megaminx 3x3
+  5 Zezinho                   57:818      57:241
+  7 Luizinho                  58:177      57:833
+  6 Huguinho                1:02:687      59:884
+  3 Tio Patinhas            2:43:987    2:43:778
+  8 Peninha                12:06:468   11:39:965
+ 10 Irmaos Metralha              DNF         DNF
+Skewb
+  7 Luizinho                  02:996      02:100
+  5 Zezinho                   02:996      02:753
+  6 Huguinho                  03:078      02:703
+  3 Tio Patinhas              04:007      03:813
+  8 Peninha                   06:954      06:767
+  2 Margarida                 08:815      08:728
+  4 Vovo Donalda              10:071      09:790

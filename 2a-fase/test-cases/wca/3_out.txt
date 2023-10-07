@@ -1,0 +1,1010 @@
+.Id.Nome.......................Media......Melhor
+Cubo 2x2x2
+ 85 Beatriz                   01:876      01:757
+ 42 Caio                      01:883      01:737
+ 56 Davi Lucca                01:892      01:733
+ 62 Lucas                     01:917      01:738
+ 17 Bryan                     01:925      01:817
+ 65 Samuel                    01:948      01:782
+ 70 Alicia                    01:961      01:728
+ 52 Isaac                     01:961      01:789
+ 35 Helena                    01:963      01:714
+ 15 Catarina                  01:965      01:748
+ 87 Luna                      01:965      01:792
+  4 Bento                     01:966      01:769
+ 43 Yasmin                    01:985      01:719
+ 37 Pietro                    01:994      01:810
+ 76 Lorena                    02:011      01:705
+ 41 Giovanna                  02:013      01:875
+ 93 Murilo                    02:026      01:840
+  9 Antonio                   02:028      01:839
+ 51 Ayla                      02:030      01:817
+ 79 Emanuel                   02:047      01:726
+ 29 Benjamin                  02:065      01:823
+ 75 Theo                      02:074      01:706
+ 32 Clara                     02:138      01:744
+ 64 Pedro Henrique            02:823      02:760
+ 91 Luisa                     02:859      02:749
+  5 Daniel                    02:865      02:713
+ 73 Nicolas                   02:889      02:845
+ 80 Maria Cecilia             02:902      02:757
+ 40 Lorenzo                   02:903      02:769
+ 24 Benicio                   02:904      02:755
+ 10 Antonella                 02:915      02:729
+ 25 Noah                      02:922      02:796
+  7 Esther                    02:924      02:859
+ 74 Melissa                   02:925      02:774
+ 49 Anthony                   02:929      02:746
+ 68 Joao Lucas                02:932      02:771
+ 26 Liz                       02:935      02:885
+ 13 Gustavo                   02:940      02:804
+ 69 Valentina                 02:982      02:749
+ 27 Caleb                     02:989      02:707
+ 84 Isis                      03:002      02:718
+ 16 Maria Eduarda             03:007      02:859
+ 78 Julia                     03:022      02:728
+ 86 Laura                     03:027      02:850
+ 55 Matteo                    03:056      02:872
+ 48 Joao                      03:057      02:917
+ 88 Rebecca                   03:061      02:728
+ 44 Levi                      03:069      02:911
+ 47 Sophia                    03:076      02:898
+ 71 Henry                     03:090      02:886
+ 21 Maria Alice               03:093      02:855
+100 Eduardo                   03:111      02:720
+ 67 Enrico                    03:127      02:950
+ 31 Maria Luisa               03:143      02:898
+ 66 Guilherme                 03:149      02:827
+ 57 Maria                     03:150      02:867
+ 99 Ana Liz                   03:167      02:855
+  8 Heloisa                   03:177      03:007
+ 60 Lucca                     03:814      03:717
+ 34 Aurora                    03:843      03:793
+ 82 Davi                      03:877      03:787
+ 54 Vicente                   03:878      03:758
+  1 Rafael                    03:915      03:729
+ 12 Mariana                   03:936      03:762
+ 46 Elisa                     03:947      03:742
+ 63 Lavinia                   03:962      03:779
+  6 Miguel                    03:990      03:702
+ 45 Jose                      04:001      03:777
+ 61 Joaquim                   04:034      03:773
+ 11 Matheus                   04:034      03:798
+ 20 Cecilia                   04:037      03:890
+ 14 Bernardo                  04:040      03:939
+ 53 Isabella                  04:044      03:837
+ 83 Sarah                     04:050      03:746
+ 81 Henrique                  04:052      03:881
+ 89 Pedro                     04:061      03:876
+ 94 Eloa                      04:069      03:753
+ 98 Livia                     04:076      03:907
+ 33 Manuela                   04:088      03:738
+ 23 Gabriel                   04:088      03:964
+ 30 Ravi                      04:109      03:704
+ 59 Heitor                    04:173      03:719
+ 19 Felipe                    04:177      04:101
+ 58 Emanuelly                 04:863      04:729
+ 36 Ana Clara                 04:900      04:731
+ 22 Gael                      04:919      04:835
+ 72 Arthur                    04:921      04:796
+ 95 Lara                      05:002      04:735
+ 97 Agatha                    05:017      04:723
+ 39 Olivia                    05:053      04:854
+ 92 Joao Pedro                05:066      04:789
+ 90 Maria Julia               05:147      04:840
+ 28 Maria Clara               05:191      04:776
+ 18 Maya                      05:875      05:774
+  2 Maria Helena              05:898      05:734
+ 50 Alice                     05:904      05:711
+  3 Leonardo                  05:952      05:738
+ 96 Joao Miguel               05:992      05:727
+ 77 Maite                     06:119      05:730
+ 38 Isadora                   06:210      05:843
+Cubo 3x3x3
+ 62 Lucas                     05:958      05:865
+ 39 Olivia                    06:959      06:833
+ 87 Luna                      07:825      07:725
+ 32 Clara                     07:861      07:775
+ 84 Isis                      07:953      07:742
+ 34 Aurora                    07:992      07:775
+ 41 Giovanna                  07:995      07:767
+ 90 Maria Julia               08:811      08:751
+ 81 Henrique                  08:925      08:768
+ 17 Bryan                     09:028      08:750
+ 55 Matteo                    09:106      08:912
+ 25 Noah                      09:833      09:703
+ 43 Yasmin                    09:894      09:737
+ 45 Jose                      09:926      09:731
+  7 Esther                    09:963      09:875
+ 78 Julia                     09:983      09:720
+ 70 Alicia                    10:021      09:767
+ 86 Laura                     10:044      09:724
+ 48 Joao                      10:100      09:939
+ 47 Sophia                    10:185      09:910
+ 85 Beatriz                   10:925      10:716
+ 52 Isaac                     11:011      10:750
+ 10 Antonella                 11:044      10:830
+ 69 Valentina                 11:058      10:839
+ 49 Anthony                   11:100      10:787
+ 94 Eloa                      11:130      10:711
+ 98 Livia                     11:168      11:114
+ 33 Manuela                   11:887      11:819
+ 24 Benicio                   11:929      11:732
+ 29 Benjamin                  11:948      11:897
+ 27 Caleb                     11:965      11:737
+ 68 Joao Lucas                11:992      11:729
+ 76 Lorena                    12:026      11:714
+ 95 Lara                      12:041      11:827
+ 63 Lavinia                   12:108      11:952
+ 67 Enrico                    12:220      12:095
+ 66 Guilherme                 12:747      12:704
+ 58 Emanuelly                 12:953      12:749
+ 18 Maya                      13:126      12:726
+ 54 Vicente                   13:911      13:753
+ 31 Maria Luisa               13:934      13:772
+ 56 Davi Lucca                13:973      13:939
+ 79 Emanuel                   14:049      13:723
+  9 Antonio                   14:095      13:752
+ 13 Gustavo                   14:823      14:804
+ 20 Cecilia                   14:928      14:722
+ 53 Isabella                  14:948      14:706
+ 64 Pedro Henrique            15:031      14:827
+  5 Daniel                    15:115      14:830
+ 44 Levi                      15:903      15:754
+ 16 Maria Eduarda             15:930      15:861
+ 21 Maria Alice               15:937      15:771
+ 26 Liz                       15:950      15:742
+ 36 Ana Clara                 15:976      15:724
+ 88 Rebecca                   16:009      15:857
+ 40 Lorenzo                   16:020      15:844
+ 19 Felipe                    16:048      15:812
+ 72 Arthur                    16:845      16:733
+ 57 Maria                     16:846      16:776
+ 91 Luisa                     16:851      16:722
+ 75 Theo                      17:002      16:904
+ 99 Ana Liz                   17:026      16:829
+ 35 Helena                    17:898      17:761
+ 15 Catarina                  17:899      17:794
+ 30 Ravi                      17:930      17:737
+ 14 Bernardo                  18:062      17:803
+  4 Bento                     18:113      17:808
+ 82 Davi                      18:881      18:723
+ 80 Maria Cecilia             18:948      18:749
+ 60 Lucca                     18:959      18:702
+ 83 Sarah                     19:010      18:777
+ 71 Henry                     19:050      18:858
+ 77 Maite                     19:125      18:873
+  3 Leonardo                  19:998      19:709
+ 61 Joaquim                   20:835      20:714
+  8 Heloisa                   20:858      20:708
+100 Eduardo                   20:966      20:857
+ 89 Pedro                     20:997      20:770
+  1 Rafael                    21:902      21:714
+ 59 Heitor                    21:974      21:813
+ 51 Ayla                      22:003      21:724
+ 12 Mariana                   22:065      21:875
+ 74 Melissa                   23:187      22:900
+ 46 Elisa                     23:211      22:810
+ 37 Pietro                    23:961      23:800
+ 97 Agatha                    24:913      24:718
+ 73 Nicolas                   24:935      24:811
+ 96 Joao Miguel               24:987      24:821
+ 11 Matheus                   26:008      25:915
+  6 Miguel                    26:768      26:710
+  2 Maria Helena              29:998      29:931
+ 92 Joao Pedro                30:136      29:937
+ 22 Gael                      33:036      32:966
+ 65 Samuel                       DNF      21:756
+ 50 Alice                        DNF      28:917
+ 93 Murilo                       DNF      31:132
+ 42 Caio                         DNF         DNF
+ 23 Gabriel                      DNF         DNF
+ 38 Isadora                      DNF         DNF
+ 28 Maria Clara                  DNF         DNF
+Pyraminx
+ 90 Maria Julia               03:824      03:744
+ 70 Alicia                    03:892      03:703
+ 57 Maria                     03:923      03:780
+ 82 Davi                      03:943      03:779
+  8 Heloisa                   03:951      03:787
+  7 Esther                    03:978      03:864
+ 56 Davi Lucca                04:011      03:845
+  6 Miguel                    04:048      03:712
+ 92 Joao Pedro                04:053      03:777
+ 43 Yasmin                    04:056      03:704
+ 11 Matheus                   04:075      03:884
+ 41 Giovanna                  04:102      03:780
+ 33 Manuela                   04:151      03:911
+ 49 Anthony                   04:823      04:713
+ 47 Sophia                    04:860      04:790
+ 27 Caleb                     04:895      04:752
+100 Eduardo                   04:903      04:753
+ 38 Isadora                   04:933      04:829
+ 28 Maria Clara               04:935      04:788
+ 91 Luisa                     04:936      04:769
+ 58 Emanuelly                 04:941      04:865
+ 31 Maria Luisa               04:945      04:746
+ 66 Guilherme                 04:958      04:777
+ 17 Bryan                     04:966      04:836
+  5 Daniel                    04:966      04:846
+ 12 Mariana                   04:973      04:817
+ 89 Pedro                     04:976      04:708
+ 39 Olivia                    05:013      04:726
+ 53 Isabella                  05:043      04:873
+ 26 Liz                       05:064      04:714
+ 94 Eloa                      05:064      04:780
+ 24 Benicio                   05:088      04:703
+ 14 Bernardo                  05:112      04:825
+ 84 Isis                      05:149      04:975
+ 72 Arthur                    05:742      05:706
+  2 Maria Helena              05:877      05:738
+ 80 Maria Cecilia             05:886      05:711
+ 48 Joao                      05:889      05:824
+ 20 Cecilia                   05:901      05:848
+ 78 Julia                     05:905      05:716
+ 60 Lucca                     05:927      05:776
+ 42 Caio                      05:942      05:777
+ 62 Lucas                     05:963      05:869
+ 95 Lara                      05:991      05:845
+ 73 Nicolas                   06:006      05:788
+ 98 Livia                     06:032      05:932
+ 36 Ana Clara                 06:036      05:783
+ 71 Henry                     06:040      05:827
+ 22 Gael                      06:047      05:890
+ 35 Helena                    06:056      05:799
+ 83 Sarah                     06:059      05:721
+ 77 Maite                     06:070      05:882
+ 50 Alice                     06:103      06:007
+ 30 Ravi                      06:159      05:987
+ 87 Luna                      06:749      06:709
+ 13 Gustavo                   06:856      06:724
+  1 Rafael                    06:864      06:729
+ 32 Clara                     06:868      06:740
+ 55 Matteo                    06:897      06:768
+ 86 Laura                     06:910      06:713
+ 74 Melissa                   06:911      06:743
+ 69 Valentina                 06:917      06:853
+ 88 Rebecca                   06:934      06:732
+ 19 Felipe                    06:947      06:712
+ 45 Jose                      06:968      06:796
+ 29 Benjamin                  06:983      06:707
+  9 Antonio                   07:016      06:959
+ 61 Joaquim                   07:046      06:832
+ 18 Maya                      07:047      06:854
+ 97 Agatha                    07:069      06:785
+ 79 Emanuel                   07:101      06:717
+ 51 Ayla                      07:107      06:904
+ 64 Pedro Henrique            07:937      07:712
+ 46 Elisa                     07:982      07:735
+ 10 Antonella                 08:018      07:926
+ 37 Pietro                    08:030      07:708
+ 23 Gabriel                   08:042      07:753
+  3 Leonardo                  08:058      07:807
+ 40 Lorenzo                   08:070      07:748
+ 25 Noah                      08:104      07:828
+ 21 Maria Alice               08:849      08:779
+ 15 Catarina                  08:924      08:806
+  4 Bento                     08:935      08:817
+ 44 Levi                      08:967      08:703
+ 96 Joao Miguel               09:004      08:840
+ 52 Isaac                     09:019      08:807
+ 63 Lavinia                   09:026      08:857
+ 75 Theo                      09:027      08:810
+ 76 Lorena                    09:093      08:844
+ 34 Aurora                    09:133      08:713
+ 54 Vicente                   09:947      09:784
+ 59 Heitor                    09:974      09:782
+ 67 Enrico                    09:999      09:780
+ 16 Maria Eduarda             10:046      09:724
+ 68 Joao Lucas                   DNF      07:937
+ 65 Samuel                       DNF      08:759
+ 99 Ana Liz                      DNF         DNF
+ 85 Beatriz                      DNF         DNF
+ 81 Henrique                     DNF         DNF
+ 93 Murilo                       DNF         DNF
+Megamynx
+ 50 Alice                     40:851      40:705
+ 89 Pedro                     40:900      40:719
+ 70 Alicia                    41:808      41:707
+ 92 Joao Pedro                42:002      41:712
+ 72 Arthur                    42:010      41:704
+ 52 Isaac                     42:014      41:773
+ 38 Isadora                   42:128      41:716
+ 27 Caleb                     42:960      42:702
+  6 Miguel                    43:029      42:904
+ 62 Lucas                     43:050      42:848
+  9 Antonio                   43:116      42:753
+ 28 Maria Clara               43:131      43:044
+ 40 Lorenzo                   43:835      43:728
+ 96 Joao Miguel               43:963      43:794
+ 36 Ana Clara                 43:970      43:811
+ 47 Sophia                    44:034      43:807
+ 22 Gael                      44:081      43:858
+ 74 Melissa                   44:872      44:726
+ 63 Lavinia                   45:890      45:769
+ 86 Laura                     45:962      45:720
+ 48 Joao                      46:014      45:919
+ 68 Joao Lucas                47:020      46:728
+ 37 Pietro                    47:095      46:961
+100 Eduardo                   47:096      46:713
+ 75 Theo                      49:079      48:875
+ 20 Cecilia                   49:165      48:865
+ 41 Giovanna                  50:997      50:765
+ 19 Felipe                    52:001      51:819
+ 60 Lucca                     52:971      52:767
+ 84 Isis                      55:871      55:756
+ 16 Maria Eduarda           1:01:284      58:154
+  7 Esther                  1:11:035    1:10:792
+ 45 Jose                    1:15:039    1:14:885
+ 24 Benicio                 1:18:919    1:18:730
+ 76 Lorena                  1:20:940    1:20:778
+ 14 Bernardo                1:21:016    1:20:896
+ 31 Maria Luisa             1:21:088    1:20:797
+ 99 Ana Liz                 1:22:917    1:22:759
+ 56 Davi Lucca              1:22:926    1:22:728
+ 12 Mariana                 1:24:800    1:24:717
+ 55 Matteo                  1:25:922    1:25:718
+ 79 Emanuel                 1:28:972    1:28:834
+ 32 Clara                   1:30:979    1:30:768
+ 34 Aurora                  1:31:010    1:30:780
+ 71 Henry                   1:36:995    1:36:816
+ 26 Liz                     1:37:023    1:36:867
+ 44 Levi                    1:37:976    1:37:736
+ 29 Benjamin                1:46:042    1:45:868
+ 97 Agatha                  1:48:912    1:48:762
+ 18 Maya                    1:52:069    1:51:737
+ 49 Anthony                 1:58:875    1:58:740
+ 51 Ayla                    2:07:201    2:06:919
+ 87 Luna                    2:10:042    2:09:770
+ 30 Ravi                    2:12:897    2:12:789
+ 11 Matheus                 2:17:121    2:16:759
+ 66 Guilherme               2:22:926    2:22:847
+ 65 Samuel                  2:26:977    2:26:716
+  4 Bento                   2:28:026    2:27:870
+ 57 Maria                   2:28:104    2:27:887
+ 13 Gustavo                 2:30:120    2:29:786
+ 77 Maite                   2:32:935    2:32:719
+ 93 Murilo                  2:32:976    2:32:825
+ 15 Catarina                2:33:010    2:32:755
+  3 Leonardo                2:33:094    2:32:869
+ 46 Elisa                   2:34:023    2:33:798
+ 23 Gabriel                 2:34:024    2:33:768
+ 98 Livia                   2:34:155    2:33:927
+ 10 Antonella               2:36:044    2:35:759
+ 43 Yasmin                  2:38:161    2:37:937
+ 94 Eloa                    2:41:911    2:41:714
+ 17 Bryan                   2:43:978    2:43:824
+ 67 Enrico                  2:44:942    2:44:708
+ 21 Maria Alice             2:45:008    2:44:709
+ 39 Olivia                  2:49:097    2:48:986
+  5 Daniel                  2:50:176    2:49:786
+ 73 Nicolas                 2:53:080    2:52:746
+ 90 Maria Julia             2:54:831    2:54:700
+ 54 Vicente                 2:57:899    2:57:775
+ 64 Pedro Henrique          2:57:950    2:57:810
+ 42 Caio                    2:59:030    2:58:968
+ 91 Luisa                   3:01:940    3:01:736
+ 81 Henrique                3:03:985    3:03:783
+ 53 Isabella                3:10:082    3:09:962
+ 35 Helena                  3:10:084    3:09:900
+  1 Rafael                  3:13:106    3:12:704
+ 25 Noah                    3:18:064    3:17:711
+ 85 Beatriz                 3:20:840    3:20:773
+ 33 Manuela                 3:23:124    3:22:768
+ 61 Joaquim                 3:26:908    3:26:740
+ 82 Davi                    3:28:883    3:28:852
+  2 Maria Helena            3:29:034    3:28:936
+ 58 Emanuelly               3:37:050    3:36:798
+ 88 Rebecca                 3:45:861    3:45:751
+ 80 Maria Cecilia           3:46:853    3:46:770
+ 69 Valentina               3:49:995    3:49:780
+ 78 Julia                   3:50:969    3:50:713
+ 83 Sarah                   3:51:053    3:50:786
+  8 Heloisa                 3:57:059    3:56:859
+ 59 Heitor                  3:57:954    3:57:747
+ 95 Lara                    3:58:941    3:58:707
+Skewb
+ 14 Bernardo                  03:806      03:770
+ 20 Cecilia                   03:845      03:742
+ 92 Joao Pedro                03:924      03:718
+ 47 Sophia                    03:948      03:817
+ 62 Lucas                     03:953      03:822
+ 93 Murilo                    03:971      03:709
+ 19 Felipe                    03:978      03:721
+ 84 Isis                      03:979      03:746
+ 32 Clara                     03:983      03:883
+ 10 Antonella                 03:987      03:796
+ 23 Gabriel                   03:990      03:773
+ 31 Maria Luisa               03:992      03:812
+ 26 Liz                       04:025      03:783
+ 45 Jose                      04:027      03:725
+ 12 Mariana                   04:034      03:732
+ 37 Pietro                    04:037      03:819
+ 71 Henry                     04:054      03:752
+ 60 Lucca                     04:055      03:897
+ 15 Catarina                  04:059      03:770
+ 43 Yasmin                    04:114      03:977
+ 57 Maria                     04:130      03:815
+ 52 Isaac                     04:154      03:733
+  2 Maria Helena              04:163      03:701
+ 61 Joaquim                   04:757      04:710
+ 29 Benjamin                  04:801      04:727
+ 24 Benicio                   04:825      04:727
+ 68 Joao Lucas                04:930      04:712
+ 11 Matheus                   04:930      04:815
+ 39 Olivia                    04:933      04:723
+ 33 Manuela                   04:942      04:756
+ 94 Eloa                      04:946      04:767
+ 30 Ravi                      04:956      04:764
+ 95 Lara                      04:966      04:831
+ 42 Caio                      04:972      04:712
+ 78 Julia                     04:972      04:840
+ 64 Pedro Henrique            04:975      04:713
+ 49 Anthony                   04:983      04:718
+  3 Leonardo                  05:009      04:864
+ 50 Alice                     05:010      04:779
+ 96 Joao Miguel               05:016      04:839
+ 51 Ayla                      05:021      04:779
+  4 Bento                     05:028      04:768
+ 41 Giovanna                  05:042      04:779
+ 55 Matteo                    05:044      04:742
+ 28 Maria Clara               05:059      04:731
+ 53 Isabella                  05:065      04:747
+ 81 Henrique                  05:086      04:789
+ 18 Maya                      05:111      04:797
+ 35 Helena                    05:121      04:798
+ 59 Heitor                    05:142      04:822
+ 89 Pedro                     05:898      05:733
+ 58 Emanuelly                 05:909      05:718
+ 86 Laura                     05:912      05:811
+ 13 Gustavo                   05:935      05:821
+100 Eduardo                   05:945      05:808
+ 65 Samuel                    05:948      05:761
+ 73 Nicolas                   05:969      05:818
+  6 Miguel                    05:978      05:796
+ 90 Maria Julia               05:985      05:885
+ 66 Guilherme                 06:010      05:896
+ 76 Lorena                    06:048      05:949
+ 27 Caleb                     06:081      05:797
+ 22 Gael                      06:093      05:802
+ 44 Levi                      06:093      05:906
+ 99 Ana Liz                   06:105      05:924
+ 83 Sarah                     06:109      05:822
+  5 Daniel                    06:120      05:825
+ 36 Ana Clara                 06:125      05:888
+ 34 Aurora                    06:846      06:755
+ 91 Luisa                     06:877      06:801
+ 72 Arthur                    06:921      06:791
+ 74 Melissa                   06:963      06:798
+ 25 Noah                      07:053      06:705
+ 82 Davi                      07:075      06:836
+ 80 Maria Cecilia             07:100      06:809
+ 97 Agatha                    07:146      07:048
+ 16 Maria Eduarda             07:155      06:830
+ 79 Emanuel                   07:848      07:774
+  1 Rafael                    07:992      07:717
+ 48 Joao                      08:025      07:745
+Square-1
+ 72 Arthur                    02:896      02:830
+ 28 Maria Clara               03:015      02:702
+ 24 Benicio                   03:024      02:821
+ 34 Aurora                    03:806      03:700
+ 67 Enrico                    03:827      03:742
+ 11 Matheus                   03:840      03:736
+ 58 Emanuelly                 03:892      03:776
+ 37 Pietro                    03:945      03:750
+ 59 Heitor                    03:998      03:767
+  5 Daniel                    04:018      03:826
+ 36 Ana Clara                 04:026      03:701
+ 29 Benjamin                  04:027      03:782
+  3 Leonardo                  04:052      03:877
+ 46 Elisa                     04:076      03:815
+ 81 Henrique                  04:118      03:758
+ 10 Antonella                 04:160      03:968
+  7 Esther                    04:903      04:775
+ 91 Luisa                     04:955      04:835
+ 39 Olivia                    04:983      04:760
+ 33 Manuela                   05:136      04:784
+ 95 Lara                      05:904      05:762
+ 84 Isis                      05:925      05:792
+ 87 Luna                      05:985      05:788
+  1 Rafael                    06:835      06:790
+ 86 Laura                     06:964      06:781
+ 40 Lorenzo                   07:781      07:746
+ 76 Lorena                    07:838      07:744
+ 52 Isaac                     07:860      07:705
+ 42 Caio                      08:138      07:970
+ 65 Samuel                    08:931      08:725
+ 23 Gabriel                   08:965      08:776
+ 62 Lucas                     08:993      08:768
+ 26 Liz                       09:020      08:763
+ 47 Sophia                    09:056      08:878
+ 48 Joao                      09:839      09:730
+Cubo 4x4x4
+ 63 Lavinia                   27:904      27:807
+ 69 Valentina                 28:105      27:762
+ 86 Laura                     28:842      28:749
+ 36 Ana Clara                 29:876      29:708
+ 91 Luisa                     30:015      29:830
+  2 Maria Helena              30:882      30:789
+ 46 Elisa                     30:890      30:710
+ 56 Davi Lucca                30:933      30:704
+  6 Miguel                    30:972      30:747
+ 30 Ravi                      30:973      30:705
+  3 Leonardo                  31:009      30:717
+ 82 Davi                      31:160      30:780
+ 21 Maria Alice               31:828      31:726
+ 15 Catarina                  31:962      31:710
+ 62 Lucas                     32:075      31:716
+ 20 Cecilia                   32:977      32:713
+ 75 Theo                      32:996      32:870
+ 33 Manuela                   33:013      32:790
+ 73 Nicolas                   33:086      32:782
+ 93 Murilo                    33:940      33:850
+ 64 Pedro Henrique            33:971      33:817
+ 88 Rebecca                   34:168      33:821
+ 35 Helena                    34:900      34:724
+ 12 Mariana                   35:875      35:740
+ 85 Beatriz                   36:054      35:716
+ 26 Liz                       36:109      35:791
+ 49 Anthony                   37:039      36:912
+ 31 Maria Luisa               38:143      38:073
+ 57 Maria                     38:856      38:792
+ 98 Livia                     38:873      38:825
+ 71 Henry                     39:040      38:818
+ 76 Lorena                    39:072      38:926
+ 17 Bryan                     39:890      39:722
+ 34 Aurora                    40:887      40:709
+ 96 Joao Miguel               41:101      40:944
+ 19 Felipe                    45:161      44:834
+  7 Esther                    46:039      45:763
+ 23 Gabriel                 1:01:885    1:01:712
+ 54 Vicente                 1:02:144    1:01:833
+ 50 Alice                   1:03:100    1:02:896
+ 52 Isaac                   1:04:112    1:03:835
+ 40 Lorenzo                 1:04:148    1:03:900
+ 68 Joao Lucas              1:05:856    1:05:738
+ 59 Heitor                  1:05:958    1:05:743
+  8 Heloisa                 1:05:986    1:05:765
+ 95 Lara                    1:07:039    1:06:780
+ 24 Benicio                 1:07:121    1:06:820
+ 67 Enrico                  1:07:976    1:07:779
+ 77 Maite                   1:10:036    1:09:701
+ 61 Joaquim                 1:10:059    1:09:907
+ 44 Levi                    1:15:975    1:15:778
+ 37 Pietro                  1:18:892    1:18:706
+ 74 Melissa                 1:19:007    1:18:871
+ 27 Caleb                   1:23:090    1:22:846
+ 87 Luna                    1:26:951    1:26:728
+ 39 Olivia                  1:28:986    1:28:728
+ 83 Sarah                   1:29:025    1:28:790
+ 78 Julia                   1:31:032    1:30:879
+ 22 Gael                    1:32:986    1:32:781
+ 38 Isadora                 1:33:175    1:32:740
+ 99 Ana Liz                 1:34:061    1:33:936
+  1 Rafael                  1:36:065    1:35:928
+ 14 Bernardo                1:36:788    1:36:710
+ 66 Guilherme               1:37:036    1:36:825
+ 48 Joao                    1:38:034    1:37:841
+ 89 Pedro                   1:39:009    1:38:883
+ 41 Giovanna                1:39:873    1:39:748
+ 55 Matteo                  1:39:976    1:39:798
+ 43 Yasmin                  1:46:987    1:46:905
+  4 Bento                   1:47:076    1:46:936
+ 13 Gustavo                 1:47:248    1:47:111
+ 97 Agatha                  1:51:023    1:50:833
+  9 Antonio                 1:52:036    1:51:916
+100 Eduardo                 1:57:899    1:57:717
+ 32 Clara                   1:58:003    1:57:859
+ 28 Maria Clara             1:58:998    1:58:832
+ 80 Maria Cecilia           1:59:003    1:58:829
+ 70 Alicia                       DNF    1:54:736
+ 72 Arthur                       DNF         DNF
+ 45 Jose                         DNF         DNF
+Cubo 5x5x5
+ 54 Vicente                   45:096      44:998
+ 96 Joao Miguel               46:000      45:742
+ 93 Murilo                    46:043      45:752
+ 53 Isabella                  46:046      45:948
+ 66 Guilherme                 46:855      46:776
+ 64 Pedro Henrique            47:046      46:851
+ 56 Davi Lucca                47:114      46:752
+ 65 Samuel                    48:063      47:704
+ 59 Heitor                    49:154      48:893
+ 11 Matheus                   49:812      49:707
+ 99 Ana Liz                   51:022      50:700
+ 84 Isis                      51:988      51:911
+  9 Antonio                   52:042      51:799
+ 46 Elisa                     55:930      55:780
+ 27 Caleb                   1:09:023    1:08:930
+ 25 Noah                    1:11:857    1:11:706
+ 47 Sophia                  1:16:995    1:16:950
+ 88 Rebecca                 1:24:162    1:23:821
+  3 Leonardo                1:29:096    1:28:722
+ 35 Helena                  1:29:106    1:28:913
+ 72 Arthur                  1:30:034    1:29:732
+ 10 Antonella               1:37:008    1:36:707
+ 13 Gustavo                 1:44:050    1:43:791
+ 55 Matteo                  1:54:064    1:53:752
+ 39 Olivia                  1:56:901    1:56:807
+ 71 Henry                   2:02:982    2:02:822
+100 Eduardo                 2:07:048    2:06:911
+ 74 Melissa                 2:08:108    2:08:014
+ 95 Lara                    2:10:916    2:10:868
+ 79 Emanuel                 2:11:071    2:10:774
+  2 Maria Helena            2:12:960    2:12:713
+ 98 Livia                   2:13:922    2:13:748
+ 91 Luisa                   2:20:001    2:19:858
+ 20 Cecilia                 2:24:009    2:23:843
+ 17 Bryan                   2:44:931    2:44:769
+ 90 Maria Julia             2:45:985    2:45:769
+ 19 Felipe                  2:49:918    2:49:770
+ 86 Laura                   2:58:969    2:58:757
+ 31 Maria Luisa             3:14:107    3:13:996
+ 69 Valentina               3:21:215    3:20:789
+ 16 Maria Eduarda           3:29:907    3:29:741
+ 76 Lorena                  3:33:073    3:32:720
+ 24 Benicio                 3:34:885    3:34:793
+  1 Rafael                  3:38:049    3:37:707
+ 21 Maria Alice             3:40:221    3:39:894
+ 62 Lucas                   3:51:144    3:51:077
+ 23 Gabriel                      DNF    2:03:974
+ 36 Ana Clara                    DNF    3:52:872
+ 32 Clara                        DNF    3:54:768
+ 68 Joao Lucas                   DNF    3:56:853
+ 97 Agatha                       DNF         DNF
+ 50 Alice                        DNF         DNF
+ 29 Benjamin                     DNF         DNF
+  5 Daniel                       DNF         DNF
+ 22 Gael                         DNF         DNF
+ 61 Joaquim                      DNF         DNF
+ 40 Lorenzo                      DNF         DNF
+ 18 Maya                         DNF         DNF
+ 83 Sarah                        DNF         DNF
+ 43 Yasmin                       DNF         DNF
+Cubo 6x6x6
+ 33 Manuela                 1:30:842    1:30:690
+ 23 Gabriel                 1:30:848    1:30:771
+ 75 Theo                    1:31:966    1:31:705
+ 56 Davi Lucca              1:41:880    1:41:775
+ 61 Joaquim                 1:50:046    1:49:762
+  4 Bento                   1:55:895    1:55:710
+ 30 Ravi                    2:00:169    2:00:098
+ 32 Clara                   2:07:048    2:06:817
+ 81 Henrique                2:18:050    2:17:883
+  5 Daniel                  2:22:934    2:22:754
+ 98 Livia                   2:29:003    2:28:763
+ 85 Beatriz                 2:44:969    2:44:821
+ 21 Maria Alice             2:53:206    2:52:763
+ 93 Murilo                  3:06:130    3:06:008
+ 20 Cecilia                 3:11:266    3:10:941
+ 34 Aurora                  3:22:055    3:21:733
+ 52 Isaac                   3:28:034    3:27:789
+ 41 Giovanna                3:36:957    3:36:755
+ 40 Lorenzo                 3:43:156    3:43:026
+ 64 Pedro Henrique          3:55:046    3:54:780
+ 94 Eloa                    4:20:085    4:19:770
+ 99 Ana Liz                 4:26:854    4:26:708
+ 92 Joao Pedro              5:03:066    5:02:884
+ 83 Sarah                   5:12:958    5:12:861
+ 44 Levi                    5:14:978    5:14:894
+ 13 Gustavo                 5:55:042    5:54:979
+ 42 Caio                    6:17:928    6:17:705
+ 70 Alicia                  6:23:865    6:23:796
+ 49 Anthony                 6:31:004    6:30:794
+ 87 Luna                    6:31:100    6:30:774
+  3 Leonardo                6:48:873    6:48:802
+ 47 Sophia                  6:48:962    6:48:900
+ 86 Laura                   6:49:068    6:48:701
+ 60 Lucca                   7:03:908    7:03:761
+ 79 Emanuel                 7:11:996    7:11:826
+  6 Miguel                  7:33:042    7:32:768
+ 63 Lavinia                 7:50:811    7:50:723
+ 45 Jose                    7:59:202    7:59:054
+ 73 Nicolas                      DNF    2:23:990
+ 88 Rebecca                      DNF    2:29:200
+ 77 Maite                        DNF    4:43:928
+ 58 Emanuelly                    DNF    6:56:050
+ 51 Ayla                         DNF         DNF
+ 53 Isabella                     DNF         DNF
+ 84 Isis                         DNF         DNF
+ 96 Joao Miguel                  DNF         DNF
+ 76 Lorena                       DNF         DNF
+ 91 Luisa                        DNF         DNF
+ 89 Pedro                        DNF         DNF
+ 69 Valentina                    DNF         DNF
+Cubo 6x6x6 Rounded
+ 38 Isadora                 1:32:142    1:31:773
+ 50 Alice                   1:58:940    1:58:764
+ 57 Maria                   2:12:857    2:12:773
+ 70 Alicia                  2:16:877    2:16:820
+  5 Daniel                  2:17:048    2:16:885
+ 83 Sarah                   2:17:999    2:17:864
+ 34 Aurora                  2:20:069    2:19:768
+ 74 Melissa                 2:26:002    2:25:734
+ 28 Maria Clara             2:29:988    2:29:717
+ 22 Gael                    2:35:979    2:35:790
+  1 Rafael                  3:25:874    3:25:709
+ 67 Enrico                  3:47:972    3:47:777
+ 95 Lara                    3:54:104    3:53:729
+ 33 Manuela                 4:06:009    4:05:751
+ 51 Ayla                    4:12:964    4:12:701
+ 79 Emanuel                 4:14:015    4:13:706
+ 75 Theo                    4:22:004    4:21:724
+ 26 Liz                     4:38:161    4:37:905
+ 32 Clara                   4:53:998    4:53:730
+ 37 Pietro                  4:54:818    4:54:752
+ 99 Ana Liz                 5:30:754    5:30:701
+ 92 Joao Pedro              5:38:205    5:37:953
+ 98 Livia                   5:42:078    5:41:841
+ 96 Joao Miguel             5:52:000    5:51:734
+ 18 Maya                    5:54:031    5:53:880
+ 55 Matteo                  6:15:052    6:14:919
+ 36 Ana Clara               6:19:950    6:19:731
+ 56 Davi Lucca              6:43:925    6:43:737
+ 12 Mariana                 6:45:970    6:45:706
+ 61 Joaquim                 6:50:938    6:50:811
+ 43 Yasmin                  6:55:059    6:54:990
+ 35 Helena                  7:03:096    7:02:744
+  6 Miguel                  7:05:912    7:05:759
+ 13 Gustavo                 7:20:089    7:19:921
+ 87 Luna                    7:22:897    7:22:793
+ 84 Isis                    7:32:101    7:31:834
+ 19 Felipe                  7:37:008    7:36:750
+ 80 Maria Cecilia           7:41:001    7:40:721
+ 93 Murilo                  7:43:860    7:43:729
+ 82 Davi                    7:53:971    7:53:707
+  7 Esther                  8:06:105    8:05:963
+ 89 Pedro                   8:12:116    8:11:906
+ 94 Eloa                    8:14:086    8:13:782
+ 81 Henrique                8:25:846    8:25:705
+ 66 Guilherme               8:32:885    8:32:728
+ 73 Nicolas                 8:38:784    8:38:740
+ 77 Maite                   8:48:919    8:48:762
+100 Eduardo                      DNF    2:34:081
+ 49 Anthony                      DNF         DNF
+ 25 Noah                         DNF         DNF
+Cubo 7x7x7
+  7 Esther                  2:44:951    2:44:725
+ 25 Noah                    2:46:131    2:45:890
+ 22 Gael                    2:56:156    2:55:882
+ 10 Antonella               3:34:951    3:34:862
+  5 Daniel                  3:45:874    3:45:726
+ 15 Catarina                3:47:048    3:46:773
+ 24 Benicio                 4:38:011    4:37:754
+ 19 Felipe                  4:38:104    4:37:793
+  9 Antonio                 6:48:013    6:47:741
+ 20 Cecilia                 6:48:899    6:48:748
+ 14 Bernardo                7:19:019    7:18:779
+ 13 Gustavo                 7:22:848    7:22:722
+  6 Miguel                  7:55:108    7:54:752
+  3 Leonardo                8:08:965    8:08:701
+ 23 Gabriel                 9:33:140    9:32:917
+  8 Heloisa                12:30:076   12:29:731
+ 11 Matheus                12:51:035   12:50:862
+ 18 Maya                   13:36:072   13:35:934
+  4 Bento                  13:42:844   13:42:721
+  2 Maria Helena           13:45:932   13:45:798
+ 12 Mariana                13:57:972   13:57:845
+ 16 Maria Eduarda          14:54:933   14:54:710
+ 21 Maria Alice                  DNF    3:41:213
+ 17 Bryan                        DNF         DNF
+  1 Rafael                       DNF         DNF
+Cubo 3x3x3 Vendado
+ 51 Ayla                    4:40:020    4:39:850
+ 81 Henrique                4:47:092    4:46:897
+ 57 Maria                   4:54:934    4:54:748
+ 56 Davi Lucca              5:02:039    5:01:770
+  6 Miguel                  5:03:949    5:03:863
+ 67 Enrico                  5:08:937    5:08:746
+  8 Heloisa                 5:13:112    5:13:007
+ 80 Maria Cecilia           5:20:056    5:19:949
+ 27 Caleb                   5:28:786    5:28:723
+ 94 Eloa                    5:29:975    5:29:737
+ 87 Luna                    5:34:115    5:33:863
+ 25 Noah                    5:38:030    5:37:798
+ 75 Theo                    5:47:050    5:46:709
+ 99 Ana Liz                 5:52:952    5:52:868
+ 10 Antonella               6:00:219    6:00:074
+ 98 Livia                   6:02:975    6:02:700
+ 72 Arthur                  6:06:891    6:06:705
+ 79 Emanuel                 6:15:004    6:14:700
+ 18 Maya                    6:19:848    6:19:723
+ 24 Benicio                 6:21:087    6:20:897
+ 62 Lucas                   6:34:069    6:33:904
+ 50 Alice                   6:39:927    6:39:851
+ 49 Anthony                 6:40:226    6:39:742
+ 44 Levi                    7:23:106    7:22:915
+ 65 Samuel                  7:47:938    7:47:865
+ 95 Lara                    8:12:011    8:11:846
+ 37 Pietro                  8:16:164    8:15:919
+ 40 Lorenzo                 8:26:104    8:25:956
+ 14 Bernardo                8:39:024    8:38:797
+ 21 Maria Alice             8:49:962    8:49:829
+  2 Maria Helena            8:54:114    8:53:721
+  3 Leonardo                9:12:060    9:11:775
+ 38 Isadora                 9:45:080    9:44:774
+ 35 Helena                       DNF    7:23:741
+ 66 Guilherme                    DNF    9:25:959
+  4 Bento                        DNF         DNF
+ 15 Catarina                     DNF         DNF
+ 26 Liz                          DNF         DNF
+ 31 Maria Luisa                  DNF         DNF
+ 30 Ravi                         DNF         DNF
+Cubo 3x3x3 Uma mao
+ 37 Pietro                    10:009      09:764
+ 87 Luna                      11:043      10:809
+ 30 Ravi                      11:138      10:770
+ 31 Maria Luisa               11:799      11:725
+ 57 Maria                     11:873      11:700
+ 76 Lorena                    11:875      11:742
+  7 Esther                    11:903      11:761
+ 99 Ana Liz                   11:956      11:854
+  6 Miguel                    11:980      11:915
+ 26 Liz                       12:855      12:702
+ 56 Davi Lucca                12:933      12:700
+ 80 Maria Cecilia             13:023      12:700
+ 47 Sophia                    13:814      13:736
+ 38 Isadora                   13:823      13:753
+ 68 Joao Lucas                13:902      13:704
+  4 Bento                     13:920      13:850
+ 65 Samuel                    13:955      13:740
+ 88 Rebecca                   13:988      13:773
+ 73 Nicolas                   14:007      13:860
+ 14 Bernardo                  14:059      13:950
+ 39 Olivia                    14:156      14:028
+ 89 Pedro                     14:874      14:720
+ 28 Maria Clara               14:887      14:835
+ 95 Lara                      14:938      14:738
+ 32 Clara                     15:981      15:787
+ 84 Isis                      15:985      15:788
+ 81 Henrique                  16:010      15:733
+ 69 Valentina                 16:040      15:801
+  3 Leonardo                  16:130      16:038
+ 91 Luisa                     16:928      16:707
+  2 Maria Helena              17:075      16:887
+ 36 Ana Clara                 17:839      17:795
+ 18 Maya                      17:944      17:775
+ 19 Felipe                    18:046      17:878
+ 15 Catarina                  18:185      17:761
+ 97 Agatha                    18:863      18:757
+ 16 Maria Eduarda             18:971      18:718
+ 98 Livia                     18:980      18:737
+ 51 Ayla                      19:184      18:984
+ 23 Gabriel                   19:778      19:703
+ 42 Caio                      19:963      19:743
+ 96 Joao Miguel               20:094      19:745
+ 58 Emanuelly                 20:105      20:032
+ 53 Isabella                  20:147      19:768
+ 20 Cecilia                   20:955      20:732
+  5 Daniel                    20:995      20:786
+ 77 Maite                     21:920      21:747
+ 86 Laura                     22:061      21:722
+ 34 Aurora                    22:064      21:715
+ 50 Alice                     23:997      23:908
+100 Eduardo                   24:998      24:746
+  1 Rafael                    24:999      24:752
+ 22 Gael                      25:047      24:820
+ 82 Davi                      26:040      25:710
+ 67 Enrico                    26:844      26:735
+ 35 Helena                    26:866      26:749
+ 25 Noah                      26:926      26:792
+ 92 Joao Pedro                27:980      27:822
+ 40 Lorenzo                   29:108      28:812
+  9 Antonio                   29:931      29:787
+ 66 Guilherme                 29:982      29:728
+ 79 Emanuel                   30:014      29:777
+ 45 Jose                      30:943      30:708
+ 52 Isaac                     31:028      30:894
+ 49 Anthony                   31:064      30:820
+ 72 Arthur                    32:030      31:731
+ 90 Maria Julia               33:965      33:746
+ 33 Manuela                   35:080      34:919
+ 48 Joao                      36:957      36:729
+ 70 Alicia                    37:923      37:734
+ 61 Joaquim                      DNF      14:713
+ 54 Vicente                      DNF      30:876
+ 27 Caleb                        DNF         DNF
+ 41 Giovanna                     DNF         DNF
+ 55 Matteo                       DNF         DNF
+Clock
+ 22 Gael                      06:802      06:712
+ 15 Catarina                  06:940      06:849
+ 43 Yasmin                    07:939      07:736
+100 Eduardo                   08:884      08:771
+ 59 Heitor                    08:889      08:754
+ 69 Valentina                 08:982      08:832
+ 20 Cecilia                   09:024      08:725
+ 46 Elisa                     09:092      08:922
+ 28 Maria Clara               09:105      08:754
+ 81 Henrique                  09:186      08:892
+ 11 Matheus                   09:870      09:742
+ 74 Melissa                   09:991      09:730
+ 99 Ana Liz                   09:992      09:766
+ 10 Antonella                 10:058      09:778
+  9 Antonio                   10:087      09:955
+ 18 Maya                      10:894      10:711
+ 64 Pedro Henrique            10:953      10:717
+ 48 Joao                      10:968      10:723
+ 61 Joaquim                   10:970      10:767
+ 94 Eloa                      11:001      10:843
+ 68 Joao Lucas                11:003      10:754
+ 58 Emanuelly                 11:010      10:718
+ 56 Davi Lucca                11:024      10:823
+ 12 Mariana                   11:052      10:708
+ 78 Julia                     11:830      11:723
+ 55 Matteo                    11:846      11:715
+  7 Esther                    11:896      11:754
+ 21 Maria Alice               11:924      11:760
+ 90 Maria Julia               11:982      11:924
+ 72 Arthur                    12:065      11:757
+ 16 Maria Eduarda             12:098      11:738
+  6 Miguel                    13:036      12:854
+ 97 Agatha                    13:086      12:702
+ 47 Sophia                    13:151      12:762
+ 67 Enrico                    13:912      13:705
+  5 Daniel                    13:921      13:708
+ 35 Helena                    13:963      13:725
+ 65 Samuel                    14:004      13:785
+ 25 Noah                      14:040      13:704
+ 86 Laura                     14:138      13:950
+ 62 Lucas                     14:951      14:710
+ 14 Bernardo                  14:987      14:833
+ 88 Rebecca                   14:988      14:720
+ 13 Gustavo                   15:080      14:872
+ 27 Caleb                     15:150      14:771
+ 42 Caio                      15:901      15:747
+ 95 Lara                      15:943      15:736
+ 98 Livia                     15:985      15:832
+ 91 Luisa                     16:021      15:749
+ 50 Alice                     16:029      15:809
+ 34 Aurora                    16:034      15:723
+ 93 Murilo                    16:147      15:746
+ 24 Benicio                   16:174      15:737
+ 75 Theo                      16:205      16:102
+ 80 Maria Cecilia             16:777      16:724
+ 71 Henry                     16:870      16:730
+  2 Maria Helena              16:903      16:743
+ 87 Luna                      17:016      16:772
+ 45 Jose                      17:033      16:797
+ 33 Manuela                   17:835      17:755
+ 73 Nicolas                   17:875      17:800
+ 40 Lorenzo                   17:946      17:740
+ 32 Clara                     18:146      17:936
+ 44 Levi                      18:844      18:727
+ 19 Felipe                    18:949      18:815
+ 49 Anthony                   19:000      18:844
+ 77 Maite                     19:872      19:734
+ 85 Beatriz                   19:887      19:723
+ 57 Maria                     19:894      19:756
+  8 Heloisa                   19:989      19:775
+ 41 Giovanna                  20:103      19:984
+ 29 Benjamin                  20:981      20:829
+  3 Leonardo                  21:007      20:932
+ 60 Lucca                     21:025      20:829
+ 38 Isadora                   21:830      21:721
+ 70 Alicia                    21:887      21:756
+ 79 Emanuel                   22:992      22:737
+ 76 Lorena                    23:082      22:916
+ 66 Guilherme                 23:102      22:945
+ 31 Maria Luisa               23:140      23:085
+ 23 Gabriel                   23:897      23:802
+ 84 Isis                      24:023      23:798
+ 83 Sarah                     24:879      24:711
+  1 Rafael                    24:911      24:757
+  4 Bento                     25:933      25:853
+ 54 Vicente                   26:052      25:856
+ 26 Liz                       26:055      25:768
+ 96 Joao Miguel               26:917      26:731
+ 89 Pedro                     27:038      26:885
+ 17 Bryan                     27:935      27:728
+ 37 Pietro                    27:954      27:745
+ 82 Davi                      28:884      28:745
+ 63 Lavinia                   28:916      28:724
+ 53 Isabella                  29:151      28:901
+ 30 Ravi                      30:953      30:790
+ 51 Ayla                      31:999      31:759
+ 92 Joao Pedro                32:030      31:876
+ 39 Olivia                    32:860      32:727
+ 36 Ana Clara                    DNF      15:996
+ 52 Isaac                        DNF         DNF

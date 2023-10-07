@@ -1,0 +1,79 @@
+.Id.Nome.......................Media......Melhor
+Cubo 2x2x2
+  4 Bento                        DNF         DNF
+  5 Daniel                       DNF         DNF
+  3 Leonardo                     DNF         DNF
+  2 Maria Helena                 DNF         DNF
+  1 Rafael                       DNF         DNF
+Cubo 3x3x3
+  4 Bento                        DNF         DNF
+  5 Daniel                       DNF         DNF
+  3 Leonardo                     DNF         DNF
+  2 Maria Helena                 DNF         DNF
+  1 Rafael                       DNF         DNF
+Pyraminx
+  4 Bento                        DNF         DNF
+  5 Daniel                       DNF         DNF
+  3 Leonardo                     DNF         DNF
+  2 Maria Helena                 DNF         DNF
+  1 Rafael                       DNF         DNF
+Megamynx
+  4 Bento                        DNF         DNF
+  5 Daniel                       DNF         DNF
+  3 Leonardo                     DNF         DNF
+  2 Maria Helena                 DNF         DNF
+  1 Rafael                       DNF         DNF
+Skewb
+  4 Bento                        DNF         DNF
+  5 Daniel                       DNF         DNF
+  3 Leonardo                     DNF         DNF
+  2 Maria Helena                 DNF         DNF
+  1 Rafael                       DNF         DNF
+Square-1
+  4 Bento                        DNF         DNF
+  5 Daniel                       DNF         DNF
+  3 Leonardo                     DNF         DNF
+  2 Maria Helena                 DNF         DNF
+  1 Rafael                       DNF         DNF
+Cubo 4x4x4
+  4 Bento                        DNF         DNF
+  5 Daniel                       DNF         DNF
+  3 Leonardo                     DNF         DNF
+  2 Maria Helena                 DNF         DNF
+  1 Rafael                       DNF         DNF
+Cubo 5x5x5
+  4 Bento                        DNF         DNF
+  5 Daniel                       DNF         DNF
+  3 Leonardo                     DNF         DNF
+  2 Maria Helena                 DNF         DNF
+  1 Rafael                       DNF         DNF
+Cubo 6x6x6
+  4 Bento                        DNF         DNF
+  5 Daniel                       DNF         DNF
+  3 Leonardo                     DNF         DNF
+  2 Maria Helena                 DNF         DNF
+  1 Rafael                       DNF         DNF
+Cubo 7x7x7
+  4 Bento                        DNF         DNF
+  5 Daniel                       DNF         DNF
+  3 Leonardo                     DNF         DNF
+  2 Maria Helena                 DNF         DNF
+  1 Rafael                       DNF         DNF
+Cubo 3x3x3 Vendado
+  4 Bento                        DNF         DNF
+  5 Daniel                       DNF         DNF
+  3 Leonardo                     DNF         DNF
+  2 Maria Helena                 DNF         DNF
+  1 Rafael                       DNF         DNF
+Cubo 3x3x3 Uma mao
+  4 Bento                        DNF         DNF
+  5 Daniel                       DNF         DNF
+  3 Leonardo                     DNF         DNF
+  2 Maria Helena                 DNF         DNF
+  1 Rafael                       DNF         DNF
+Clock
+  4 Bento                        DNF         DNF
+  5 Daniel                       DNF         DNF
+  3 Leonardo                     DNF         DNF
+  2 Maria Helena                 DNF         DNF
+  1 Rafael                       DNF         DNF

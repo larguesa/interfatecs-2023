@@ -1,0 +1,79 @@
+.Id.Nome.......................Media......Melhor
+Cubo 2x2x2
+  3 Leonardo                1:05:986    1:05:765
+  1 Rafael                  1:36:065    1:35:928
+  2 Maria Helena            1:47:076    1:46:936
+  5 Daniel                  1:47:248    1:47:111
+  4 Bento                   1:52:036    1:51:916
+Cubo 3x3x3
+  3 Leonardo                1:05:986    1:05:765
+  1 Rafael                  1:36:065    1:35:928
+  2 Maria Helena            1:47:076    1:46:936
+  5 Daniel                  1:47:248    1:47:111
+  4 Bento                   1:52:036    1:51:916
+Pyraminx
+  3 Leonardo                1:05:986    1:05:765
+  1 Rafael                  1:36:065    1:35:928
+  2 Maria Helena            1:47:076    1:46:936
+  5 Daniel                  1:47:248    1:47:111
+  4 Bento                   1:52:036    1:51:916
+Megamynx
+  3 Leonardo                1:05:986    1:05:765
+  1 Rafael                  1:36:065    1:35:928
+  2 Maria Helena            1:47:076    1:46:936
+  5 Daniel                  1:47:248    1:47:111
+  4 Bento                   1:52:036    1:51:916
+Skewb
+  3 Leonardo                1:05:986    1:05:765
+  1 Rafael                  1:36:065    1:35:928
+  2 Maria Helena            1:47:076    1:46:936
+  5 Daniel                  1:47:248    1:47:111
+  4 Bento                   1:52:036    1:51:916
+Square-1
+  3 Leonardo                1:05:986    1:05:765
+  1 Rafael                  1:36:065    1:35:928
+  2 Maria Helena            1:47:076    1:46:936
+  5 Daniel                  1:47:248    1:47:111
+  4 Bento                   1:52:036    1:51:916
+Cubo 4x4x4
+  3 Leonardo                1:05:986    1:05:765
+  1 Rafael                  1:36:065    1:35:928
+  2 Maria Helena            1:47:076    1:46:936
+  5 Daniel                  1:47:248    1:47:111
+  4 Bento                   1:52:036    1:51:916
+Cubo 5x5x5
+  3 Leonardo                1:05:986    1:05:765
+  1 Rafael                  1:36:065    1:35:928
+  2 Maria Helena            1:47:076    1:46:936
+  5 Daniel                  1:47:248    1:47:111
+  4 Bento                   1:52:036    1:51:916
+Cubo 6x6x6
+  3 Leonardo                1:05:986    1:05:765
+  1 Rafael                  1:36:065    1:35:928
+  2 Maria Helena            1:47:076    1:46:936
+  5 Daniel                  1:47:248    1:47:111
+  4 Bento                   1:52:036    1:51:916
+Cubo 7x7x7
+  3 Leonardo                1:05:986    1:05:765
+  1 Rafael                  1:36:065    1:35:928
+  2 Maria Helena            1:47:076    1:46:936
+  5 Daniel                  1:47:248    1:47:111
+  4 Bento                   1:52:036    1:51:916
+Cubo 3x3x3 Vendado
+  3 Leonardo                1:05:986    1:05:765
+  1 Rafael                  1:36:065    1:35:928
+  2 Maria Helena            1:47:076    1:46:936
+  5 Daniel                  1:47:248    1:47:111
+  4 Bento                   1:52:036    1:51:916
+Cubo 3x3x3 Uma mao
+  3 Leonardo                1:05:986    1:05:765
+  1 Rafael                  1:36:065    1:35:928
+  2 Maria Helena            1:47:076    1:46:936
+  5 Daniel                  1:47:248    1:47:111
+  4 Bento                   1:52:036    1:51:916
+Clock
+  3 Leonardo                1:05:986    1:05:765
+  1 Rafael                  1:36:065    1:35:928
+  2 Maria Helena            1:47:076    1:46:936
+  5 Daniel                  1:47:248    1:47:111
+  4 Bento                   1:52:036    1:51:916
